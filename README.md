@@ -26,7 +26,7 @@ Getting Started
 To run this project locally:
 
 - npm install
-- npm run dev
+-npm run dev
 
 Then open the local URL shown in the terminal.
 
