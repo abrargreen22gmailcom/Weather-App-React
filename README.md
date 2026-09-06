@@ -1,8 +1,8 @@
 # Weather App 🌤️
-A simple and responsive Weather App built using React, Material UI, and a Weather API.
+A Responsive Weather App built using React, Material UI, and a Weather API.
 
 ## Features
-- 🔍 Search weather by city
+- 🔍 Search weather by city or location
 - 🌡️ Display current temperature
 - 💧 Display humidity
 - 📉 Display minimum temperature
@@ -19,7 +19,7 @@ A simple and responsive Weather App built using React, Material UI, and a Weathe
 - Weather API
 - Project Description
 
-## This project allows users to search for a city and view its current weather information, including temperature, humidity, minimum and maximum temperature, weather conditions, and a corresponding weather icon.
+## This project allows users to search for a city or location and view its current weather information, including temperature, humidity, minimum and maximum temperature, weather conditions, and a corresponding weather icon.
 
 Getting Started
 
