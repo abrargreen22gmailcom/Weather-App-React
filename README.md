@@ -10,7 +10,7 @@ A simple and responsive Weather App built using React, Material UI, and a Weathe
 - 🌧️ Display weather description
 - 🌤️ Display weather icon
 - 📱 Simple and responsive user interface
-- 
+  
 ## Technologies Used
 - React
 - JavaScript
