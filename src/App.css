@@ -1,0 +1,8 @@
+.BigDiv {
+    padding: 20px;
+    background-color: lightcyan;
+    width: 500px;
+    margin: 0 auto;
+    border: 2px solid magenta;
+    border-radius: 15px;
+}

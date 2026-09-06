@@ -16,7 +16,7 @@ export default function InfoBox({info}) {
  
     return (
         <div className="InfoBox">
-            <h1>WeatherInfo - {info.weather}</h1>
+            <h1>WeatherInfo - <span style={{ color: "orange" }}>{info.weather}</span></h1>
             <div className="cardContainer">
             <Card sx={{ maxWidth: 345 }}>
       <CardMedia
@@ -33,7 +33,7 @@ export default function InfoBox({info}) {
             <p>Humidity = {info.humidity}</p>
             <p>Min Temp = {info.tempMin}&deg;C</p>
             <p>Max Temp = {info.tempMax}&deg;C</p>
-            <p>The weather can be described as <i>{info.weather}</i> and feels like {info.feelsLike}&deg;C</p>
+            <p>The weather can be described as <b style={{ color: "magenta" }}><i>{info.weather}</i></b> and feels like {info.feelsLike}&deg;C</p>
         </Typography>
       </CardContent>
     </Card>
